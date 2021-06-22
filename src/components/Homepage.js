@@ -15,7 +15,7 @@ function Homepage() {
     `
 
     const Button = styled(Link)`
-        background: #fff;
+        background: #ffefd5;
         color: #DB7093;
         font-size: 1em;
         margin: 1em;
